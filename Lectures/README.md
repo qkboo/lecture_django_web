@@ -1,6 +1,6 @@
 # 일자별 진행
 
-# Day1
+# [Day1](./day1/)
 
 1. Database 소개
 2. Python Db연동
