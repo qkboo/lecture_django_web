@@ -4,6 +4,8 @@
 
 1. 공유한 MySQL 데이터베이스 자료
 
+ - [MySQL clean 삭제](https://answers.microsoft.com/en-us/windows/forum/windows_other-windows_programs/how-to-completely-uninstall-mysql/e90e1344-7b90-4319-8b2f-77b271ae66ed)
+
 #### 참고
 
  - [데이터베이스개발자](http://www.saramin.co.kr/zf_user/cms/job-information/view?idx=20240&dtlGb=1)
