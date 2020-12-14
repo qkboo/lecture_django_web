@@ -7,8 +7,9 @@
  - [MySQL clean 삭제](https://answers.microsoft.com/en-us/windows/forum/windows_other-windows_programs/how-to-completely-uninstall-mysql/e90e1344-7b90-4319-8b2f-77b271ae66ed)
 
 
-2. 실습
- - [day1 SQL 실습](./day1_sql_ex1.sql)
+2. 과제!!!
+ - [day1 SQL 과제](./day1_sql_ex1.sql)
+    - 작성후 강사 이메일로 제출!
 
 
 #### 참고
