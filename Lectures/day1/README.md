@@ -6,15 +6,17 @@
 
  - [MySQL clean 삭제](https://answers.microsoft.com/en-us/windows/forum/windows_other-windows_programs/how-to-completely-uninstall-mysql/e90e1344-7b90-4319-8b2f-77b271ae66ed)
 
+
 2. 실습
- - [데이터 ](https://wikidocs.net/98960)
- - [https://wikidocs.net/98983](https://wikidocs.net/98983)
+ - [day1 SQL 실습](./day1_sql_ex1.sql)
 
 
 #### 참고
 
  - [데이터베이스개발자](http://www.saramin.co.kr/zf_user/cms/job-information/view?idx=20240&dtlGb=1)
  - [데이터베이스 독립성 3단계](https://m.blog.naver.com/PostView.nhn?blogId=brickbot&logNo=220432306464&proxyReferer=https:%2F%2Fwww.google.com%2F)
+ - [데이터 ](https://wikidocs.net/98960)
+ - [https://wikidocs.net/98983](https://wikidocs.net/98983)
 
 ---
 
