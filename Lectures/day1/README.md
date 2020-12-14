@@ -7,7 +7,7 @@
  - [MySQL clean 삭제](https://answers.microsoft.com/en-us/windows/forum/windows_other-windows_programs/how-to-completely-uninstall-mysql/e90e1344-7b90-4319-8b2f-77b271ae66ed)
 
 2. 실습
-
+ - [데이터 ](https://wikidocs.net/98960)
  - [https://wikidocs.net/98983](https://wikidocs.net/98983)
 
 
