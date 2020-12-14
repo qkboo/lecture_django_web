@@ -7,7 +7,7 @@
 #### 참고
 
  - [데이터베이스개발자](http://www.saramin.co.kr/zf_user/cms/job-information/view?idx=20240&dtlGb=1)
-
+ - [데이터베이스 독립성 3단계](https://m.blog.naver.com/PostView.nhn?blogId=brickbot&logNo=220432306464&proxyReferer=https:%2F%2Fwww.google.com%2F)
 
 ---
 
