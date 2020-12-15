@@ -14,3 +14,5 @@ SQL 사용2
 
 # MySQL DB API 실습
  - [mysql_basic.ipynb](./mysql_basic.ipynb)
+     - [mysql_basic-1.ipynb](./mysql_basic-1.ipynb)
+     
