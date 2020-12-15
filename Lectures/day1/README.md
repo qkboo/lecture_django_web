@@ -10,6 +10,7 @@
 2. 과제!!!
  - [day1 SQL 과제](./day1_sql_ex1.sql)
     - 작성후 강사 이메일로 제출!
+    - 제출한 결과: [day1_sql_A.zip](./day1_sql_A.zip)
 
 3. 실습:
  - [데이터 ](https://wikidocs.net/98960)
