@@ -5,3 +5,8 @@ SQL 사용2
 #### 실습:
 
 판매원 데이터: [sales_person.sql](./sales_person.sql)
+
+
+# SQLite3 실습
+
+ - [sqlite_1.ipynb](./sqlite_1.ipynb)
