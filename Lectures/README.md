@@ -3,12 +3,13 @@
 # [Day1](./day1/)
 
 1. Database 소개
-2. Python Db연동
+1. SQL 실습
 
-# Day2
+# [Day2](./day2/)
 
+1. Python Db연동
 1. Web 기술: HTML5, Javascript
-2. Web Crawling
+1. Web Crawling
 
 
 # Day3
