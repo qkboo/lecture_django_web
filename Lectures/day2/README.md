@@ -16,3 +16,6 @@ SQL 사용2
  - [mysql_basic.ipynb](./mysql_basic.ipynb)
      - [mysql_basic-1.ipynb](./mysql_basic-1.ipynb)
      
+
+# 과제 결과
+ - [한상근_학생정보입력_mysql사용.ipynb](./한상근_학생정보입력_mysql사용.ipynb)
