@@ -19,8 +19,8 @@
 
 1. Python Django
 
-# Day5
+# [Day5](./day5)
 
-1. Python GUI (Tkinter or PyQT)
+1. Django 실습
 1. 정리
-2. 과목평가: 
+2. 과목평가: Db + Crawling + Django
