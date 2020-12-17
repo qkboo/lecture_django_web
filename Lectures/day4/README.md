@@ -13,6 +13,8 @@ Django
 
 ## 2. Django
 
+Django와 crawling 실습:
+ - https://beomi.github.io/2017/03/01/HowToMakeWebCrawler-Save-with-Django/
 
 
 ## 참고: Scrapy 사용
