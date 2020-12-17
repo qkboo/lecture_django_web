@@ -15,12 +15,12 @@
 1. Web 기술: HTML5, Javascript
 1. Web Crawling
 
-# Day4
+# [Day4](./day4/)
 
 1. Python Django
-1. Python GUI (Tkinter or PyQT)
 
 # Day5
 
+1. Python GUI (Tkinter or PyQT)
 1. 정리
 2. 과목평가: 
