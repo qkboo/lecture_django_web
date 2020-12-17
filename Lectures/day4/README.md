@@ -16,6 +16,9 @@ Django
 Django와 crawling 실습:
  - https://beomi.github.io/2017/03/01/HowToMakeWebCrawler-Save-with-Django/
 
+실습 결과:
+ - [helloproject.zip](./helloproject.zip)
+
 
 ## 참고: Scrapy 사용
 
