@@ -4,9 +4,13 @@
  
  - 참조: https://beomi.github.io/2017/03/01/HowToMakeWebCrawler-Save-with-Django/
  - 기존 프로젝트에 melon_data 앱 생성
- 
 
-#### 실습
+
+#### 2. 멜론 차트 리스트/상세 화면
+ - 위 1번 결과를 보여줄 목록과 링크 클릭시 상세 화면
+
+
+#### 3. 실습
 
  1. Blog 프로젝트
  2. Django Tube
