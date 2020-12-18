@@ -23,6 +23,8 @@
 
 ## 과목평가: Db + Crawling + Django
 
+[평가-네이버예정작django.pdf](./평가-네이버예정작django.pdf)
+
  1. DB DML, DDL 명령
  2. Python DB API 이용
  3. Web Crawling
