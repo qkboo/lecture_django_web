@@ -2,8 +2,9 @@
 
 #### 1. 멜로 차트 클롤링 결과 Django 연동
  
- - 참조: https://beomi.github.io/2017/03/01/HowToMakeWebCrawler-Save-with-Django/
- - 기존 프로젝트에 melon_data 앱 생성
+- 기존 프로젝트에 melon_data 앱 생성
+- https://beomi.github.io/2017/03/01/HowToMakeWebCrawler-Save-with-Django/
+- 모델을 통해 데이터 CRUD: https://wayhome25.github.io/django/2017/04/01/django-ep9-crud/
 
 
 #### 2. 멜론 차트 리스트/상세 화면
