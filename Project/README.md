@@ -5,6 +5,9 @@
 1. https://developer.mozilla.org/ko/docs/Learn/HTML/Forms/Sending_and_retrieving_form_data
 2. https://devbox.tistory.com/entry/HTML5-a-%ED%83%9C%EA%B7%B8
 
+#### Django HTTP form
+
+1. https://developer.mozilla.org/ko/docs/Learn/Server-side/Django/Forms
 
 
 ## 참고
